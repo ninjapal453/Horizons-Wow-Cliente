@@ -1,0 +1,24 @@
+8/18 20:57:50.414  GRUNT: state: LOGIN_STATE_CONNECTING result: LOGIN_OK 
+8/18 20:57:50.508  GRUNT: state: RESPONSE_CONNECTED result: LOGIN_OK 185.228.52.81:3724
+8/18 20:57:50.508  GRUNT: state: LOGIN_STATE_AUTHENTICATING result: LOGIN_OK 
+8/18 20:57:50.508  GRUNT: state: LOGIN_STATE_CHECKINGVERSIONS result: LOGIN_OK 
+8/18 20:57:50.550  GRUNT: state: LOGIN_STATE_HANDSHAKING result: LOGIN_OK 
+8/18 20:57:50.561  GRUNT: state: LOGIN_STATE_AUTHENTICATED result: LOGIN_OK 
+8/18 20:57:50.561  ClientConnection Initiating: COP_CONNECT code=CSTATUS_CONNECTING 
+8/18 20:57:50.608  ClientConnection Completed: COP_CONNECT code=RESPONSE_CONNECTED result=TRUE
+8/18 20:57:50.608  ClientConnection Initiating: COP_AUTHENTICATE code=CSTATUS_AUTHENTICATING 
+8/18 20:57:50.608  ClientConnection Completed: COP_AUTHENTICATE code=AUTH_OK result=TRUE
+8/18 20:57:51.111  ClientConnection Initiating: COP_GET_CHARACTERS code=43 
+8/18 20:57:51.121  ClientConnection Completed: COP_GET_CHARACTERS code=44 result=TRUE
+8/18 20:58:00.063  ClientConnection Initiating: COP_GET_CHARACTERS code=43 
+8/18 20:58:00.063  ClientConnection Completed: COP_GET_CHARACTERS code=44 result=TRUE
+8/18 20:58:03.994  GRUNT: state: LOGIN_STATE_DISCONNECTED result: LOGIN_OK 
+8/18 20:58:07.056  ClientConnection Initiating: COP_LOGIN_CHARACTER code=76 
+8/18 20:58:07.129  ClientConnection Completed: COP_LOGIN_CHARACTER code=77 result=TRUE
+8/18 20:58:45.016  ClientConnection Completed: COP_LOGIN_CHARACTER code=77 result=TRUE
+8/18 20:58:45.602  ClientConnection Initiating: COP_GET_CHARACTERS code=43 
+8/18 20:58:45.714  ClientConnection Completed: COP_GET_CHARACTERS code=44 result=TRUE
+8/18 20:59:02.993  ClientConnection Initiating: COP_GET_CHARACTERS code=43 
+8/18 20:59:02.993  ClientConnection Completed: COP_GET_CHARACTERS code=44 result=TRUE
+8/18 21:00:39.220  ClientConnection Initiating: COP_GET_CHARACTERS code=43 
+8/18 21:00:39.220  ClientConnection Completed: COP_GET_CHARACTERS code=44 result=TRUE

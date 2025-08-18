@@ -1,0 +1,24 @@
+8/18 22:45:42.790  CGxDevice::DeviceAdapterID(): RET: 1, VID: 10de, DID: 2684, DVER: 0.0
+8/18 22:45:42.855  CGxDevice::DeviceAdapterInfer(): RET: 1, DID: 3
+8/18 22:45:42.855  ConsoleDetectDetectHardware():
+8/18 22:45:42.855  	cpuIdx: 0
+8/18 22:45:42.855  	videoID: 693
+8/18 22:45:42.855  	soundIdx: 0
+8/18 22:45:42.855  	memIdx: 0
+8/18 22:45:42.873  ValidateFormatMonitor(): unable to find monitor refresh
+8/18 22:45:42.873  ValidateFormatMonitor(): invalid refresh rate 60, set to 60
+8/18 22:45:42.873  ConsoleDeviceInitialize(): hwDetect = 0, hwChanged = 0
+8/18 22:45:42.920  CGxDeviceD3d::DeviceSetFormat():
+8/18 22:45:42.920  	Format: 3840 x 2160 Window, Ds24X, multisample 8
+8/18 22:45:43.026  Caps:
+8/18 22:45:43.026  	numTmus: 8
+8/18 22:45:43.026  	generateMipMaps: 1
+8/18 22:45:43.026  	texFilterAnisotropic: 1, 16
+8/18 22:45:43.026  	rttFormat: 1, 1
+8/18 22:45:43.026  	pixelShaderTarget: ps_3_0
+8/18 22:45:43.026  	vertexShaderTarget: vs_3_0
+8/18 22:45:43.026  	vertexShaderConstants: 256
+8/18 22:45:43.026  	numStreams: 16
+8/18 22:45:43.026  	stereoAvailable: 0
+8/18 22:45:43.026  	NVAPI: 1
+8/18 22:45:43.026  	stereoHandle: 0

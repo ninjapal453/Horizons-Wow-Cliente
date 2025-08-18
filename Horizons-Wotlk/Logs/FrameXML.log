@@ -1,0 +1,16 @@
+8/18 20:58:04.784  Loading add-on CompactRaidFrame
+8/18 20:58:04.784  ** Loading table of contents Interface\AddOns\CompactRaidFrame\CompactRaidFrame.toc
+8/18 20:58:04.784  ++ Loading file Interface\AddOns\CompactRaidFrame\Templates\load.xml
+8/18 20:58:04.784  ++ Loading file Interface\AddOns\CompactRaidFrame\Templates\SharedUIPanelTemplates.xml
+8/18 20:58:04.784  Virtual object named UICheckButtonTemplate already exists
+8/18 20:58:04.784  Virtual object named UIRadioButtonTemplate already exists
+8/18 20:58:04.784  Virtual object named UIPanelButtonTemplate already exists
+8/18 20:58:04.784  ++ Loading file Interface\AddOns\CompactRaidFrame\Templates\SecureUIPanelTemplates.xml
+8/18 20:58:04.784  Virtual object named UIPanelButtonHighlightTexture already exists
+8/18 20:58:04.784  Loading add-on EclipseBarFrame
+8/18 20:58:04.784  ** Loading table of contents Interface\AddOns\EclipseBarFrame\EclipseBarFrame.toc
+8/18 20:58:04.784  ++ Loading file Interface\AddOns\EclipseBarFrame\EclipseBarFrame.xml
+8/18 20:58:04.784  <unnamed>: Invalid scaleX value: -0.9259. Value must be at least -536870912.
+8/18 20:58:04.784  <unnamed>: Invalid scaleY value: -0.9259. Value must be at least -536870912.
+8/18 20:58:04.784  Error loading WTF\Account\NINJAPAL\SavedVariables.lua
+8/18 20:58:04.784  Error loading WTF\Account\NINJAPAL\AzerothCore\Tsuke\SavedVariables.lua
