@@ -1,2 +1,0 @@
-
-ACP_Data = nil

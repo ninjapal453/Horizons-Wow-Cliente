@@ -1,9 +1,0 @@
-8/18 22:45:42.790  vendor: 2
-8/18 22:45:42.790  features: 00000057
-8/18 22:45:42.790  sockets: 1
-8/18 22:45:42.790  cores: 16
-8/18 22:45:42.790  processors: 16
-8/18 22:45:42.790  vendor id string= AuthenticAMD
-8/18 22:45:42.790  standard (13): 1b=0B100800 1d=178bfbff 4a=00000000
-8/18 22:45:42.790  extended (39): 1c=20C023F3 1d=2fd3fbff 8c=0000400F
-8/18 22:45:42.790  processor brand string= AMD Ryzen 7 7800X3D 8-Core Processor           
